@@ -29,5 +29,5 @@ More Public Projects and Website On The Way!
 
 ### GitHub
 
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Eugene-CFX&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Eugene-CFX&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+<img height="165" src="./profile/top-langs.svg" alt="Top languages" />
