@@ -1,10 +1,8 @@
 # Eugene
 
-FiveM developer. Lua in-game, TypeScript on the web, MySQL underneath.
+Hey, I'm Eugene. I build for FiveM and I'm still figuring this GitHub thing out.
 
-```lua
-local focus = { "game resources", "NUI", "APIs", "player-facing UIs" }
-```
+Mostly Lua and TypeScript right now. More repos coming as I go.
 
 ### Languages
 
@@ -16,7 +14,7 @@ local focus = { "game resources", "NUI", "APIs", "player-facing UIs" }
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### Stack I reach for
+### Tools
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -25,15 +23,7 @@ local focus = { "game resources", "NUI", "APIs", "player-facing UIs" }
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-Most of my work is full-stack around CFX servers: custom resources, character flows, admin tools, and the web side that ties into live player data. I like shipping stuff that players actually notice in-game, not just backend plumbing.
-
 ### GitHub
 
 <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Eugene-CFX&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Eugene-CFX&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top languages" />
-
----
-
-[![GitHub](https://img.shields.io/badge/GitHub-Eugene--CFX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eugene-CFX)
