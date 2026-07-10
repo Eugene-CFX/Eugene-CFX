@@ -1,6 +1,6 @@
 # Eugene
 
-FiveM developer — Lua in-game, TypeScript on the web, MySQL underneath.
+FiveM developer. Lua in-game, TypeScript on the web, MySQL underneath.
 
 ```lua
 local focus = { "game resources", "NUI", "APIs", "player-facing UIs" }
@@ -27,12 +27,12 @@ local focus = { "game resources", "NUI", "APIs", "player-facing UIs" }
 
 ---
 
-Most of my work is full-stack around CFX servers: custom resources, character flows, admin tools, and the web side that ties into live player data. I like shipping stuff that players actually notice in-game — not just backend plumbing.
+Most of my work is full-stack around CFX servers: custom resources, character flows, admin tools, and the web side that ties into live player data. I like shipping stuff that players actually notice in-game, not just backend plumbing.
 
 ### GitHub
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Eugene-CFX&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugene-CFX&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Eugene-CFX&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Eugene-CFX&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top languages" />
 
 ---
 
