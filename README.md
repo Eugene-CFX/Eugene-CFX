@@ -4,9 +4,9 @@ Hey, I'm Eugene. I'm a Fullstack developer currently doing projects on the Fivem
 
 More Public Projects and Website On The Way!
 
-### Now Playing
+### Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31e4lvabyldsb6h37jlsm3nsr7mm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31e4lvabyldsb6h37jlsm3nsr7mm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
 ### Languages
 
