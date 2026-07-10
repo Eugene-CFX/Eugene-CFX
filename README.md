@@ -2,7 +2,7 @@
 
 Hey, I'm Eugene. I'm a Fullstack developer currently doing projects on the Fivem Platform!
 
-More Public Projects and Website OTW!
+More Public Projects and Website On The Way!
 
 ### Languages
 
