@@ -1,8 +1,8 @@
 # Eugene
 
-Hey, I'm Eugene. I build for FiveM and I'm still figuring this GitHub thing out.
+Hey, I'm Eugene. I'm a Fullstack developer currently doing projects on the Fivem Platform!
 
-Mostly Lua and TypeScript right now. More repos coming as I go.
+More Public Projects and Website OTW!
 
 ### Languages
 
